@@ -1,0 +1,41 @@
+[
+  {
+    "year": 2021,
+    "models": [
+      { "model": "Volkswagen Passat", "avgPrice": 12500, "range": [10800, 14200] },
+      { "model": "Toyota Corolla", "avgPrice": 9500, "range": [8200, 10800] },
+      { "model": "Toyota Camry", "avgPrice": 15800, "range": [13800, 17800] },
+      { "model": "Honda Accord", "avgPrice": 14500, "range": [12500, 16500] },
+      { "model": "Nissan X-Trail", "avgPrice": 13200, "range": [11500, 14900] },
+      { "model": "BMW 3 Series", "avgPrice": 22000, "range": [19500, 24500] },
+      { "model": "Audi A4L", "avgPrice": 20500, "range": [18200, 22800] },
+      { "model": "Honda CR-V", "avgPrice": 15200, "range": [13200, 17200] }
+    ]
+  },
+  {
+    "year": 2022,
+    "models": [
+      { "model": "Volkswagen Passat", "avgPrice": 14200, "range": [12500, 15900] },
+      { "model": "Toyota Corolla", "avgPrice": 10800, "range": [9500, 12100] },
+      { "model": "Toyota Camry", "avgPrice": 17200, "range": [15200, 19200] },
+      { "model": "Honda Accord", "avgPrice": 16000, "range": [14000, 18000] },
+      { "model": "Nissan X-Trail", "avgPrice": 14800, "range": [13000, 16600] },
+      { "model": "BMW 3 Series", "avgPrice": 24200, "range": [21800, 26600] },
+      { "model": "Audi A4L", "avgPrice": 22500, "range": [20000, 25000] },
+      { "model": "Toyota RAV4", "avgPrice": 17800, "range": [15800, 19800] }
+    ]
+  },
+  {
+    "year": 2023,
+    "models": [
+      { "model": "Volkswagen Passat", "avgPrice": 15800, "range": [14000, 17600] },
+      { "model": "Toyota Corolla", "avgPrice": 12000, "range": [10500, 13500] },
+      { "model": "Toyota Camry", "avgPrice": 18800, "range": [16800, 20800] },
+      { "model": "Honda Accord", "avgPrice": 17500, "range": [15500, 19500] },
+      { "model": "Nissan X-Trail", "avgPrice": 16200, "range": [14200, 18200] },
+      { "model": "BMW 3 Series", "avgPrice": 26500, "range": [24000, 29000] },
+      { "model": "Audi A4L", "avgPrice": 24800, "range": [22200, 27400] },
+      { "model": "Mercedes-Benz C-Class", "avgPrice": 27500, "range": [25000, 30000] }
+    ]
+  }
+]

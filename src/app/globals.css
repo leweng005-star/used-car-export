@@ -1,0 +1,46 @@
+/**
+ * ============================================================
+ * 全局样式表 — 整个网站的样式入口
+ * 内容说明：
+ *   @tailwind directives — 引入 Tailwind CSS 的基础/组件/工具类
+ *   @layer base            — 全局基础样式（html, body, h1-h6）
+ *   @layer components      — 可复用的组件样式（按钮、容器、卡片等）
+ * 编辑提示：修改这里的样式会影响整个网站，请谨慎操作
+ * ============================================================
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply font-body text-gray-900 antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block bg-gold-500 text-white font-semibold py-3 px-8 rounded-lg
+           hover:bg-gold-600 transition-all duration-300 shadow-md hover:shadow-lg;
+  }
+  .btn-secondary {
+    @apply inline-block bg-navy-700 text-white font-semibold py-3 px-8 rounded-lg
+           hover:bg-navy-800 transition-all duration-300 shadow-md hover:shadow-lg;
+  }
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+  .card {
+    @apply bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden;
+  }
+}

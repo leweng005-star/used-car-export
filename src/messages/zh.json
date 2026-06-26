@@ -1,0 +1,144 @@
+{
+  "site": {
+    "title": "山东解放 - 二手车出口",
+    "description": "专业中国二手车出口服务。为全球汽车经销商提供优质车源、检测整备、报关出口一站式服务。",
+    "tagline": "您值得信赖的中国二手车出口合作伙伴"
+  },
+  "nav": {
+    "home": "首页",
+    "cars": "特价车源",
+    "history": "价格参考",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "login": "登录",
+    "register": "注册",
+    "dashboard": "会员中心",
+    "logout": "退出"
+  },
+  "hero": {
+    "title": "限时特价车专区",
+    "subtitle": "精选优质二手车，出口价格一步到位",
+    "cta": "查看全部车源"
+  },
+  "advantages": {
+    "title": "为什么选择我们",
+    "subtitle": "三大服务优势，成就您的采购信心",
+    "sourcing": {
+      "title": "优质车源保障",
+      "description": "严格筛选中国汽车市场优质车源，每辆车入库前均经过多点位专业检测，确保车辆来源可靠。"
+    },
+    "guarantee": {
+      "title": "车况质量保证",
+      "description": "提供专业检测报告，真实呈现车辆状况。支持90天回购保障，让您采购无忧。"
+    },
+    "process": {
+      "title": "灵活采购流程",
+      "description": "支付定金即可锁定心仪车辆，待车辆出口报关时再支付尾款，资金周转更灵活。"
+    }
+  },
+  "history": {
+    "title": "经典车型历史成交价参考",
+    "subtitle": "历年经典车型出口价格，为您的采购决策提供参考",
+    "viewDetails": "查看详情"
+  },
+  "cta": {
+    "title": "准备好扩充您的库存了吗？",
+    "subtitle": "浏览当前特价车源，找到最适合您市场的畅销车型。",
+    "button": "探索特价车源"
+  },
+  "car": {
+    "year": "年份",
+    "mileage": "里程",
+    "price": "出口价格",
+    "viewDetails": "查看详情",
+    "inquiry": "在线询盘",
+    "specifications": "车辆参数",
+    "condition": "车况介绍",
+    "mileageUnit": "公里",
+    "brand": "品牌",
+    "model": "车型",
+    "filter": "筛选",
+    "allBrands": "全部品牌",
+    "allYears": "全部年份",
+    "sortBy": "排序",
+    "priceLow": "价格从低到高",
+    "priceHigh": "价格从高到低",
+    "newest": "最新发布"
+  },
+  "inquiry": {
+    "title": "咨询此车辆",
+    "name": "您的姓名",
+    "email": "电子邮箱",
+    "company": "公司名称（选填）",
+    "message": "留言内容",
+    "submit": "发送询盘",
+    "success": "询盘已发送！我们会尽快与您联系。",
+    "namePlaceholder": "张三",
+    "emailPlaceholder": "zhangsan@example.com",
+    "companyPlaceholder": "您的汽车经销公司名称",
+    "messagePlaceholder": "我对这辆车很感兴趣，请发送更多详细信息..."
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "您值得信赖的中国二手车出口合作伙伴",
+    "intro": "山东解放是一家位于中国山东省的专业二手车出口公司。我们专注于为全球汽车经销商提供优质二手车的采购、检测和出口服务。",
+    "services": "我们的服务",
+    "servicesList": [
+      "车辆采购与寻源",
+      "专业检测与质量控制",
+      "出口单证与报关",
+      "国际物流与运输",
+      "售后支持服务"
+    ],
+    "credentials": "企业资质",
+    "license": "营业执照",
+    "exportPermit": "二手车出口资质",
+    "partners": "全球合作伙伴",
+    "trust": "以透明铸就信任"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "欢迎与我们联系，洽谈合作",
+    "email": "电子邮箱",
+    "address": "公司地址",
+    "addressValue": "中国山东省泰安市东平县阿里巴巴跨境电商产业园",
+    "whatsApp": "WhatsApp",
+    "comingSoon": "即将开通",
+    "formTitle": "在线留言",
+    "name": "您的姓名",
+    "email": "电子邮箱",
+    "subject": "主题",
+    "message": "留言内容",
+    "submit": "发送留言",
+    "success": "感谢您的留言！我们会尽快回复您。"
+  },
+  "footer": {
+    "company": "山东解放进出口有限公司",
+    "rights": "版权所有。",
+    "quickLinks": "快速链接",
+    "contactInfo": "联系方式",
+    "followUs": "关注我们"
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册账号",
+    "email": "电子邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "name": "姓名",
+    "company": "公司名称",
+    "submitLogin": "登录",
+    "submitRegister": "创建账号",
+    "noAccount": "还没有账号？",
+    "hasAccount": "已有账号？",
+    "registerLink": "立即注册",
+    "loginLink": "立即登录"
+  },
+  "dashboard": {
+    "title": "会员中心",
+    "favorites": "我的收藏",
+    "inquiries": "询盘记录",
+    "noFavorites": "暂无收藏。浏览特价车源，收藏您感兴趣的车辆！",
+    "noInquiries": "暂无询盘记录。对感兴趣的车辆发送询盘吧！"
+  }
+}

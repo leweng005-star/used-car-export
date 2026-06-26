@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "toyota-camry-2022",
+    "brand": "Toyota",
+    "model": "Camry SE",
+    "year": 2022,
+    "mileage": 32000,
+    "price": 21500,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Grade A condition. Single owner, no accident history. Full 4S dealership service records available. Minor stone chips on front bumper (touched up). Interior in excellent condition with minimal wear. Tires at 80% tread remaining. All electronics working perfectly. Non-smoker vehicle. Ready for immediate export.",
+    "specs": {
+      "engine": "2.5L 4-Cylinder",
+      "transmission": "8-Speed Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline",
+      "color": "Pearl White",
+      "seats": 5,
+      "vin": "JTDXXXXX"
+    },
+    "featured": true,
+    "status": "available"
+  },
+  {
+    "slug": "volkswagen-passat-2021",
+    "brand": "Volkswagen",
+    "model": "Passat 330TSI",
+    "year": 2021,
+    "mileage": 45000,
+    "price": 16800,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Well-maintained fleet vehicle. Regular maintenance at authorized VW service center. Original paint with minor wear. Interior shows light use. All mechanical systems inspected and serviced. New brake pads at 40,000km. Complete service documentation available.",
+    "specs": {
+      "engine": "2.0T Turbo",
+      "transmission": "7-Speed DSG",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline",
+      "color": "Deep Black",
+      "seats": 5,
+      "vin": "WVWXXXXX"
+    },
+    "featured": true,
+    "status": "available"
+  },
+  {
+    "slug": "honda-accord-2022",
+    "brand": "Honda",
+    "model": "Accord 1.5T EX",
+    "year": 2022,
+    "mileage": 28000,
+    "price": 19500,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Excellent condition. Personal use vehicle, garage kept. Full Honda service history. Paint protection film on front. Leather interior in like-new condition. Includes winter floor mats. All scheduled maintenance completed on time. No issues to report.",
+    "specs": {
+      "engine": "1.5T Turbo",
+      "transmission": "CVT Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline",
+      "color": "Modern Steel",
+      "seats": 5,
+      "vin": "1HGXXXXX"
+    },
+    "featured": true,
+    "status": "available"
+  },
+  {
+    "slug": "bmw-3-series-2021",
+    "brand": "BMW",
+    "model": "325Li M Sport",
+    "year": 2021,
+    "mileage": 38000,
+    "price": 28500,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Premium condition. M Sport package with full options. BMW dealership maintained. Ceramic coating applied. No accidents. Interior in pristine condition. All technology features fully functional. Includes both keys. Export documentation ready.",
+    "specs": {
+      "engine": "2.0T Turbo",
+      "transmission": "8-Speed Steptronic",
+      "drivetrain": "RWD",
+      "fuelType": "Gasoline",
+      "color": "Alpine White",
+      "seats": 5,
+      "vin": "LBVXXXXX"
+    },
+    "featured": false,
+    "status": "available"
+  },
+  {
+    "slug": "mercedes-benz-c-class-2022",
+    "brand": "Mercedes-Benz",
+    "model": "C 260 L",
+    "year": 2022,
+    "mileage": 25000,
+    "price": 32500,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Nearly new condition. Long wheelbase version. Mercedes-Benz certified pre-owned inspection passed. Panoramic sunroof, ambient lighting, Burmester sound system. Full service history. Paint in flawless condition. Interior smells like new. A true luxury sedan at export price.",
+    "specs": {
+      "engine": "1.5T + 48V Mild Hybrid",
+      "transmission": "9G-TRONIC Automatic",
+      "drivetrain": "RWD",
+      "fuelType": "Mild Hybrid",
+      "color": "Obsidian Black",
+      "seats": 5,
+      "vin": "W1KXXXXX"
+    },
+    "featured": false,
+    "status": "available"
+  },
+  {
+    "slug": "toyota-rav4-2021",
+    "brand": "Toyota",
+    "model": "RAV4 2.0L 4WD",
+    "year": 2021,
+    "mileage": 42000,
+    "price": 19800,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Very good condition. Popular SUV model, always in demand. Toyota reliability with full service records. 4WD system tested and verified. Minor wear on driver seat bolster. New tires installed at 35,000km. All weather mats included. Ready for any market.",
+    "specs": {
+      "engine": "2.0L 4-Cylinder",
+      "transmission": "CVT Automatic",
+      "drivetrain": "4WD",
+      "fuelType": "Gasoline",
+      "color": "Graphite Gray",
+      "seats": 5,
+      "vin": "JTMXXXXX"
+    },
+    "featured": false,
+    "status": "available"
+  },
+  {
+    "slug": "nissan-x-trail-2022",
+    "brand": "Nissan",
+    "model": "X-Trail 2.5L",
+    "year": 2022,
+    "mileage": 30000,
+    "price": 17500,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Great condition family SUV. Panoramic sunroof, 360-degree camera, lane departure warning. All maintenance done at Nissan dealership. Interior in excellent shape. Exterior has a few minor scratches (touched up professionally). Excellent value for money in the mid-size SUV segment.",
+    "specs": {
+      "engine": "2.5L 4-Cylinder",
+      "transmission": "CVT Automatic",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline",
+      "color": "Diamond Black",
+      "seats": 7,
+      "vin": "JN1XXXXX"
+    },
+    "featured": false,
+    "status": "available"
+  },
+  {
+    "slug": "audi-a4l-2021",
+    "brand": "Audi",
+    "model": "A4L 40 TFSI",
+    "year": 2021,
+    "mileage": 35000,
+    "price": 24500,
+    "currency": "USD",
+    "images": [
+      "/images/cars/car-placeholder-1.jpg",
+      "/images/cars/car-placeholder-2.jpg",
+      "/images/cars/car-placeholder-3.jpg"
+    ],
+    "condition": "Premium German sedan in outstanding condition. Long wheelbase China-market version with extra rear legroom. Virtual cockpit, matrix LED headlights, Bang & Olufsen audio. Full Audi service history. Garage kept. Paint in showroom condition. A truly exceptional vehicle.",
+    "specs": {
+      "engine": "2.0T TFSI Turbo",
+      "transmission": "7-Speed S tronic",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline",
+      "color": "Glacier White",
+      "seats": 5,
+      "vin": "WAUXXXXX"
+    },
+    "featured": false,
+    "status": "available"
+  }
+]

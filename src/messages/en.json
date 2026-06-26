@@ -1,0 +1,144 @@
+{
+  "site": {
+    "title": "Shandong Jiefang - Used Car Export",
+    "description": "Professional used car export from China. Premium vehicle sourcing, quality inspection, and global shipping for international auto dealers.",
+    "tagline": "Your Trusted Partner in Chinese Used Car Export"
+  },
+  "nav": {
+    "home": "Home",
+    "cars": "Special Offers",
+    "history": "Price Reference",
+    "about": "About Us",
+    "contact": "Contact",
+    "login": "Sign In",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Sign Out"
+  },
+  "hero": {
+    "title": "Limited-Time Special Offers",
+    "subtitle": "Premium Used Cars at Export Prices",
+    "cta": "View All Deals"
+  },
+  "advantages": {
+    "title": "Why Choose Us",
+    "subtitle": "Three Pillars of Our Service Excellence",
+    "sourcing": {
+      "title": "Premium Vehicle Sources",
+      "description": "We rigorously select vehicles from trusted channels across China's automotive market. Every vehicle undergoes multi-point inspection before entering our inventory."
+    },
+    "guarantee": {
+      "title": "Vehicle Condition Guarantee",
+      "description": "Professional inspection reports with full transparency on vehicle condition. Backed by our 90-day buyback guarantee for your peace of mind."
+    },
+    "process": {
+      "title": "Flexible Purchase Process",
+      "description": "Secure your vehicle with just a deposit. Pay the remaining balance when your vehicle is ready for export customs clearance."
+    }
+  },
+  "history": {
+    "title": "Historical Transaction Price Reference",
+    "subtitle": "Classic Models — Past Years' Export Prices for Your Reference",
+    "viewDetails": "View Details"
+  },
+  "cta": {
+    "title": "Ready to Expand Your Inventory?",
+    "subtitle": "Browse our current special offers and find your next best-seller.",
+    "button": "Explore Special Offers"
+  },
+  "car": {
+    "year": "Year",
+    "mileage": "Mileage",
+    "price": "Export Price",
+    "viewDetails": "View Details",
+    "inquiry": "Send Inquiry",
+    "specifications": "Specifications",
+    "condition": "Condition Report",
+    "mileageUnit": "km",
+    "brand": "Brand",
+    "model": "Model",
+    "filter": "Filter",
+    "allBrands": "All Brands",
+    "allYears": "All Years",
+    "sortBy": "Sort by",
+    "priceLow": "Price: Low to High",
+    "priceHigh": "Price: High to Low",
+    "newest": "Newest First"
+  },
+  "inquiry": {
+    "title": "Inquire About This Vehicle",
+    "name": "Your Name",
+    "email": "Email Address",
+    "company": "Company (Optional)",
+    "message": "Message",
+    "submit": "Send Inquiry",
+    "success": "Your inquiry has been sent! We'll get back to you shortly.",
+    "namePlaceholder": "John Doe",
+    "emailPlaceholder": "john@dealer.com",
+    "companyPlaceholder": "Your auto dealership name",
+    "messagePlaceholder": "I'm interested in this vehicle. Please send me more details..."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your Trusted Partner in Chinese Used Car Export",
+    "intro": "Shandong Jiefang is a professional used car export company based in Shandong Province, China. We specialize in sourcing, inspecting, and exporting high-quality used vehicles to international auto dealers worldwide.",
+    "services": "Our Services",
+    "servicesList": [
+      "Vehicle Sourcing & Procurement",
+      "Professional Inspection & Quality Control",
+      "Export Documentation & Customs Clearance",
+      "International Logistics & Shipping",
+      "After-Sales Support"
+    ],
+    "credentials": "Our Credentials",
+    "license": "Business License",
+    "exportPermit": "Used Car Export Qualification",
+    "partners": "Global Partners",
+    "trust": "Building Trust Through Transparency"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for inquiries and partnerships",
+    "email": "Email",
+    "address": "Address",
+    "addressValue": "Alibaba Cross-border Industrial Park, Dongping County, Tai'an City, Shandong Province, P.R. China",
+    "whatsapp": "WhatsApp",
+    "comingSoon": "Coming soon",
+    "formTitle": "Send Us a Message",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Your Message",
+    "submit": "Send Message",
+    "success": "Thank you for your message! We will get back to you as soon as possible."
+  },
+  "footer": {
+    "company": "Shandong Jiefang Import & Export Co., Ltd.",
+    "rights": "All Rights Reserved.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Create Account",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "company": "Company Name",
+    "submitLogin": "Sign In",
+    "submitRegister": "Create Account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "registerLink": "Register here",
+    "loginLink": "Sign in here"
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "favorites": "My Favorites",
+    "inquiries": "My Inquiries",
+    "noFavorites": "No favorites yet. Browse our special offers and save vehicles you like!",
+    "noInquiries": "No inquiries yet. Contact us about any vehicle you're interested in!"
+  }
+}

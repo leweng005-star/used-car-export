@@ -1,0 +1,51 @@
+# dependencies
+node_modules/
+.next/
+
+# large files (>10MB)
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.zip
+*.tar.gz
+*.rar
+
+# large images (project specific)
+b2cca4f23af5fc1adc97dcd4b4138088.jpg
+
+# build output
+out/
+dist/
+
+# env
+.env
+.env.local
+.env.production
+.env.development.local
+.env.test.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# temp files
+~$*
+*.tmp
+
+# Word temp
+~$*.docx
+
+# claude
+.claude/
+
+# misc
+*.py
+*.docx
+*.md
+!CLAUDE.md
+!README.md
