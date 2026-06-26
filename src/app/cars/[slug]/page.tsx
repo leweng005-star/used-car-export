@@ -10,7 +10,7 @@
 
 "use client";
 
-import { useParams } from "next/navigation";
+import { useParams, notFound } from "next/navigation";
 import Link from "next/link";
 import { getCarBySlug } from "@/lib/cars";
 import ImageGallery from "@/components/ImageGallery";
